@@ -6,4 +6,4 @@ A Bot that allows your server users to pick a role color. These colors are creat
 ![0099B1](https://i.imgur.com/xiFXsKH.png) ![9473FF](https://i.imgur.com/4XkFuxH.png) ![BD7E00](https://i.imgur.com/qHKs9JO.png)
 ![CB52FF](https://i.imgur.com/P4RCZVy.png) ![FF3E70](https://i.imgur.com/PizDiJ0.png) ![FF454A](https://i.imgur.com/J0lVMnh.png)
 
-These colors have approximatelty a 3.4:1 constrast with both Discord Light and Dark modes
+These colors have approximatelty a 3.4:1 contrast with both Discord Light and Dark modes
