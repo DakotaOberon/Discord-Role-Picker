@@ -133,3 +133,4 @@ dmypy.json
 /img
 pyvenv.cfg
 creds.py
+/.vscode
